@@ -17,5 +17,7 @@ public class Day02_GitGithub {
                 git push -u origin master
     NOT : Yukaridaki iki komutu tek seferde kullandiktan sonra ikinci commit'lerim icin
     sadece git push kullaniriz.
+
+    NOT : git log --oneline --> Commit'lerimdeki yani versiyonlarimdaki durumu gosterir.
      */
 }
