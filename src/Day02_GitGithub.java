@@ -13,9 +13,9 @@ public class Day02_GitGithub {
 
     5-) git push --> Uzak repo'ya (yani remote - Github) gondermek icin kullandigimiz kod
     Yalniz git push komutunu direk kullanmak istersek bir kez
-                git remote add origin -adress-
+                git remote add origin adres
                 git push -u origin master
     NOT : Yukaridaki iki komutu tek seferde kullandiktan sonra ikinci commit'lerim icin
-    sadece git push kullaniriz
+    sadece git push kullaniriz.
      */
 }
